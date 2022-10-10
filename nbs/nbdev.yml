@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "movie-8"
+  site-url: "https://daveramseymusic.github.io/movie-8"
+  description: "trying 8th time movie"
+  repo-branch: main
+  repo-url: "https://github.com/daveramseymusic/movie-8"
